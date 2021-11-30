@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GatoDB_atividadePratica:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GatoDB_atividadePratica</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="GatoDB_atividadePratica-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GatoDB_atividadePratica:war exploded" />
+    </root>
+  </artifact>
+</component>
